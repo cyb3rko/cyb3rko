@@ -20,4 +20,5 @@
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyb3rko&show_icons=true&locale=en&layout=compact" alt="cyb3rko" /></p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=cyb3rko&show_icons=true alt=cyb3rko /> </p>
