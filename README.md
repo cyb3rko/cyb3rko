@@ -5,6 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s new Privacy features and enhancements (I/O ‘21)](https://cyb3rko.medium.com/googles-new-privacy-features-and-enhancements-i-o-21-1928bc031735?source=rss-3c4b9744f515------2)
+- [The new Android Material TimePicker in Google’s Material Design](https://cyb3rko.medium.com/the-new-android-material-timepicker-in-googles-material-design-44a9a4db8c45?source=rss-3c4b9744f515------2)
+- [Publish the “google-services.json” file of an android app project or not?](https://cyb3rko.medium.com/publish-the-google-services-json-file-of-an-android-app-project-or-not-1951fb555b26?source=rss-3c4b9744f515------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
