@@ -23,5 +23,15 @@
 
 ---
 
+### My Projects:
+
+| Android Apps | Android Libraries | Other |
+|--------------|-------------------|-------|
+| [LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [About Icons](https://github.com/cyb3rko/about-icons) | [inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
+| [Pazzword](https://github.com/cyb3rko/pazzword) | [Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [Cavetale API](https://github.com/cyb3rko/cavetale-api) |
+| [Cavedroid](https://github.com/cyb3rko/cavedroid) | | |
+
+---
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyb3rko&show_icons=true&locale=en&layout=compact" alt="cyb3rko" /></p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=cyb3rko&show_icons=true alt=cyb3rko /> </p>
