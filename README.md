@@ -31,6 +31,7 @@
 | [LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [About Icons](https://github.com/cyb3rko/about-icons) | [inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
 | [Pazzword](https://github.com/cyb3rko/pazzword) | [Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [Cavetale API](https://github.com/cyb3rko/cavetale-api) |
 | [Cavedroid](https://github.com/cyb3rko/cavedroid) | | |
+| [Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) | | |
 
 ### Contributed to:
 
