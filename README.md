@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com/@cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb3rko" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9077356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077356" height="30" width="40" /></a>
 <a href="https://instagram.com/cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyb3rko" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/9077356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077356" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,18 +27,21 @@
 
 ### My Projects:
 
-| Android Apps | Libraries | Other |
-|--------------|-------------------|-------|
-| [Quaetor](https://github.com/cyb3rko/quaetor-public) | [About Icons](https://github.com/cyb3rko/about-icons) | [Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
-| [LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
-| [Pazzword](https://github.com/cyb3rko/pazzword) | [M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) | [Cavetale API](https://github.com/cyb3rko/cavetale-api) |
-| [Cavedroid](https://github.com/cyb3rko/cavedroid) | | |
+| Android Apps | Android / Kotlin Libraries | Raspberry Pi | Other |
+|---|---|---|---|
+| [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
+| [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen)   |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [🛠️ M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) |  | [🎮 Cavetale API](https://github.com/cyb3rko/cavetale-api) |
+| [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |
+| [🎮 Cavedroid](https://github.com/cyb3rko/cavedroid) |  |  |  |
 
 ### Contributed to:
 
 | Android Apps | Android Libraries | Other |
-|--------------|-------------------|-------|
-| [Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) | [Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) | [CC Licenses](https://github.com/santisoler/cc-licenses) |
+|---|---|---|
+| [📨 Gotify Android](https://github.com/gotify/android) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) | [📝 CC Licenses](https://github.com/santisoler/cc-licenses) |
+| [📊 Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) |  |  |
+| [🛠️ M3O Android](https://github.com/m3o/m3o-android)  |  |  |
 
 ---
 
