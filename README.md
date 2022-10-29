@@ -25,6 +25,19 @@
 
 ---
 
+![Google Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-000000?style=for-the-badge&logo=google&logoColor=ffffff)
+![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
+
+<details><summary>My previous phones</summary>
+<br>
+<img src="https://img.shields.io/badge/Pixel%205-000000?style=for-the-badge&logo=google&logoColor=ffffff" /><br>
+<img src="https://img.shields.io/badge/Galaxy%20S7-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
+<img src="https://img.shields.io/badge/Galaxy%20S5-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
+<img src="https://img.shields.io/badge/Galaxy%20S5%20mini-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
+<img src="https://img.shields.io/badge/Galaxy%20S3%20mini-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
+<img src="https://img.shields.io/badge/Star%20II-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" />
+</details>
+
 ### My Projects:
 
 | Android Apps | Android / Kotlin Libraries | Raspberry Pi | Other |
