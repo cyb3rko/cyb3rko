@@ -43,9 +43,9 @@
 
 | Android Apps | Android / Kotlin Libraries | Raspberry Pi | Other |
 |---|---|---|---|
-| [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
 | [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen)   |
-| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [🛠️ M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) |  | [🎮 Cavetale API](https://github.com/cyb3rko/cavetale-api) |
+| [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) | [🛠️ M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) |  | [🎮 Cavetale API](https://github.com/cyb3rko/cavetale-api) |
 | [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |
 | [🎮 Cavedroid](https://github.com/cyb3rko/cavedroid) |  |  |  |
 
