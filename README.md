@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com/@cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb3rko" height="30" width="40" /></a>
-<a href="https://instagram.com/cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyb3rko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niko-diamadis-32050224b" target="blank"><img align="center" src="icons/linkedin.svg" alt="linkedin" height="32" width="42" /></a>
   <a href="https://stackoverflow.com/users/9077356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077356" height="30" width="40" /></a>
 </p>
 
@@ -43,11 +43,11 @@
 
 | Android Apps | Android / Kotlin Libraries | Raspberry Pi | Other |
 |---|---|---|---|
-| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
-| [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen)   |
+| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen)   |
 | [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) | [🛠️ M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) |  | [🎮 Cavetale API](https://github.com/cyb3rko/cavetale-api) |
+| [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) |  |  |  |
 | [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |
-| [🎮 Cavedroid](https://github.com/cyb3rko/cavedroid) |  |  |  |
 
 ### Contributed to:
 
