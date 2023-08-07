@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niko</h1>
-<h3 align="center">Student & Freetime Android developer (🇩🇪)</h3>
+<h3 align="center">IT Security Student & Freetime Android developer (🇩🇪)</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -22,6 +22,8 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="icons/android.svg" alt="android" width="57" height="35"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons/java.svg" alt="java" width="40" height="45"/> </a>
+  <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="icons/cpp.svg" alt="c++" width="45" height="45"/> </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="icons/docker.svg" alt="docker" width="50" height="50"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="45" height="45"/> </a> </p>
 
 ---
