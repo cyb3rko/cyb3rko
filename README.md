@@ -29,25 +29,15 @@
 ---
 
 ![Google Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-000000?style=for-the-badge&logo=google&logoColor=ffffff)
-![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
-
-<details><summary>My previous phones</summary>
-<br>
-<img src="https://img.shields.io/badge/Pixel%205-000000?style=for-the-badge&logo=google&logoColor=ffffff" /><br>
-<img src="https://img.shields.io/badge/Galaxy%20S7-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
-<img src="https://img.shields.io/badge/Galaxy%20S5-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
-<img src="https://img.shields.io/badge/Galaxy%20S5%20mini-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
-<img src="https://img.shields.io/badge/Galaxy%20S3%20mini-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" /><br>
-<img src="https://img.shields.io/badge/Star%20II-183693?style=for-the-badge&logo=samsung&logoColor=ffffffff" />
-</details>
+![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
 
 ### My Projects:
 
 | Android Apps | Android / Kotlin Libraries | Raspberry Pi | Docker | Other |
 |---|---|---|---|---|
-| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [🌍 Awesome Environment](https://github.com/cyb3rko/awesome-environment) |
-| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) |  | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
-| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) | [🛠️ M3O Kotlin](https://github.com/cyb3rko/m3o-kotlin) |  |  | [🎮 Cavetale API](https://github.com/cyb3rko/cavetale-api) |
+| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) |  |  |
+| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) |  |  |  |  |
 | [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) |  |  |  |  |
 | [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) |  |  |  |  |
 | [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |  |
@@ -57,6 +47,7 @@
 | Android Apps | Android Libraries | Other |
 |---|---|---|
 | [📨 Gotify Android](https://github.com/gotify/android) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) | [📝 CC Licenses](https://github.com/santisoler/cc-licenses) |
+| [🚗 Velociraptor](https://github.com/cyb3rko/velociraptor-v2) |  |  |
 | [🔑 Quick Permission Kotlin](https://github.com/cyb3rko/QuickPermissions-Kotlin)  |  |  |
 | [📸 PixelDroid](https://github.com/H-PixelDroid/PixelDroid)  |  |  |
 | [📊 Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) |  |  |
