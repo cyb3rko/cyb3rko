@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Niko</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Hi, I'm Niko</h1>
 <h3 align="center">IT Security Student & Freetime Android developer (🇩🇪)</h3>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Simple implementation of Material 3 switches in Preferences](https://cyb3rko.medium.com/simple-implementation-of-material-3-switches-in-preferences-4b83ea3202d1?source=rss-3c4b9744f515------2)
 - [Dimming your flashlight on Android 13+](https://cyb3rko.medium.com/dimming-your-flashlight-on-android-13-835cdf2d6f3e?source=rss-3c4b9744f515------2)
@@ -19,17 +19,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="icons/android.svg" alt="android" width="57" height="35"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons/java.svg" alt="java" width="40" height="45"/> </a>
-  <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="icons/cpp.svg" alt="c++" width="45" height="45"/> </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="icons/docker.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="45" height="45"/> </a> </p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,flutter,py" />
 
 ---
 
 ![Google Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-000000?style=for-the-badge&logo=google&logoColor=ffffff)
-![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
 
 ### My Projects:
 
