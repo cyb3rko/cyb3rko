@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Hi, I'm Niko</h1>
-<h3 align="center">IT Security Student & Freetime Android developer (🇩🇪)</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Hi, my name is Niko</h1>
+<h3 align="center">IT Security Student & Freetime Android developer (🇩🇪🇬🇷)</h3>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,13 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com/@cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb3rko" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/niko-diamadis-32050224b" target="blank"><img align="center" src="icons/linkedin.svg" alt="linkedin" height="32" width="42" /></a>
+  <a href="https://www.linkedin.com/in/niko-diamadis-32050224b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="32" width="42" /></a>
   <a href="https://stackoverflow.com/users/9077356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077356" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,flutter,py" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,flutter,py" /><img src="https://i.imgur.com/FhciBQ9.png" height="48"/>
 
 ---
 
@@ -30,9 +30,9 @@
 
 | Android Apps | Android / Kotlin Libraries | Raspberry Pi | Docker | Other |
 |---|---|---|---|---|
-| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
-| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) |  |  |
-| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) |  |  |  |  |
+| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) |  [📷 JAB Code Android](https://github.com/cyb3rko/jabcode-android) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) |  | [⛔ Social Media Hosts Blocklists](https://github.com/cyb3rko/social-media-hosts-blocklists) |
+| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) |  |  | [⛔ Stevenblack Hosts Trimmed](https://github.com/cyb3rko/stevenblack-hosts-trimmed) |
 | [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) |  |  |  |  |
 | [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) |  |  |  |  |
 | [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |  |
@@ -41,9 +41,9 @@
 
 | Android Apps | Android Libraries | Other |
 |---|---|---|
-| [📨 Gotify Android](https://github.com/gotify/android) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) | [📝 CC Licenses](https://github.com/santisoler/cc-licenses) |
-| [🚗 Velociraptor](https://github.com/cyb3rko/velociraptor-v2) |  |  |
-| [🔑 Quick Permission Kotlin](https://github.com/cyb3rko/QuickPermissions-Kotlin)  |  |  |
+| [📨 Gotify Android](https://github.com/gotify/android) | [🔑 Quick Permission Kotlin](https://github.com/cyb3rko/QuickPermissions-Kotlin) | [📝 CC Licenses](https://github.com/santisoler/cc-licenses) |
+| [🚗 Velociraptor](https://github.com/cyb3rko/velociraptor-v2) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) |  |
+| [🖼️ Secure Photo Viewer](https://github.com/cyb3rko/Secure-Photo-Viewer) |  |  |
 | [📸 PixelDroid](https://github.com/H-PixelDroid/PixelDroid)  |  |  |
 | [📊 Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) |  |  |
 
