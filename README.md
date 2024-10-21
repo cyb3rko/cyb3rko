@@ -24,7 +24,7 @@
 ---
 
 ![Google Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-000000?style=for-the-badge&logo=google&logoColor=ffffff)
-![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
+![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
 
 ### My Projects:
 
