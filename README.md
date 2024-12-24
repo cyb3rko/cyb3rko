@@ -3,11 +3,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I’ve reduced my Golang Docker image size by 98,7 %](https://cyb3rko.medium.com/how-ive-reduced-my-golang-docker-image-size-by-98-7-ab1ab7b5cb26?source=rss-3c4b9744f515------2)
 - [Simple implementation of Material 3 switches in Preferences](https://cyb3rko.medium.com/simple-implementation-of-material-3-switches-in-preferences-4b83ea3202d1?source=rss-3c4b9744f515------2)
 - [Dimming your flashlight on Android 13+](https://cyb3rko.medium.com/dimming-your-flashlight-on-android-13-835cdf2d6f3e?source=rss-3c4b9744f515------2)
 - [Strength estimation of top 200 most common passwords of 2020](https://cyb3rko.medium.com/strength-estimation-of-top-200-most-common-passwords-of-2020-8c25ba661e4b?source=rss-3c4b9744f515------2)
 - [Google’s new Privacy features and enhancements &lpar;I/O ‘21&rpar;](https://cyb3rko.medium.com/googles-new-privacy-features-and-enhancements-i-o-21-1928bc031735?source=rss-3c4b9744f515------2)
-- [The new Android Material TimePicker in Google’s Material Design](https://cyb3rko.medium.com/the-new-android-material-timepicker-in-googles-material-design-44a9a4db8c45?source=rss-3c4b9744f515------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
