@@ -1,6 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> Hi, my name is Niko</h1>
 <h3 align="center">IT Security Student & Freetime Android developer (🇩🇪 🇬🇷)</h3>
 
+<p align=center>
+  <a href="https://signal.org/donate"><img src="https://img.shields.io/badge/Signal%20Sponsor-3B45FD?style=for-the-badge&logo=signal&logoColor=ffffff&cacheSeconds=604800" height="30"></a> <a href="https://matrix.org/membership"><img src="https://img.shields.io/badge/Matrix%20Member-000000?style=for-the-badge&logo=matrix&logoColor=ffffff&cacheSeconds=604800" height="30"/></a>
+</p>
+
+---
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How I’ve reduced my Golang Docker image size by 98,7 %](https://cyb3rko.medium.com/how-ive-reduced-my-golang-docker-image-size-by-98-7-ab1ab7b5cb26?source=rss-3c4b9744f515------2)
@@ -13,20 +19,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://medium.com/@cyb3rko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb3rko" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/niko-diamadis-32050224b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="32" width="42" /></a>
-  <a href="https://stackoverflow.com/users/9077356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077356" height="30" width="40" /></a>
-</p>
+
+<a href="https://medium.com/@cyb3rko"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&cacheSeconds=604800" height="25"/></a> <a href="https://stackoverflow.com/users/9077356"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&cacheSeconds=604800" height="25"/></a> <a href="https://www.linkedin.com/in/cyb3rko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&cacheSeconds=604800" height="25"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,flutter,py" /><img src="https://i.imgur.com/FhciBQ9.png" height="48"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=ffffff&cacheSeconds=604800" height="25"/>
 
 ---
-
-![Google Pixel 7 Pro](https://img.shields.io/badge/Pixel%207%20Pro-000000?style=for-the-badge&logo=google&logoColor=ffffff)
-![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)
 
 ### My Projects:
 
