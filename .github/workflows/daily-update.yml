@@ -1,0 +1,26 @@
+name: Daily README update
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blogs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@cyb3rko"
+          max_post_count: 6
+  update-readme-with-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: niko-diamadis
+          CREDLY_SORT: RECENT # optional, RECENT or POPULAR

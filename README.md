@@ -22,6 +22,11 @@
 
 <a href="https://medium.com/@cyb3rko"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&cacheSeconds=604800" height="25"/></a> <a href="https://stackoverflow.com/users/9077356"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&cacheSeconds=604800" height="25"/></a> <a href="https://www.linkedin.com/in/cyb3rko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&cacheSeconds=604800" height="25"/></a>
 
+<h3 align="left">Badges:</h3>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&cacheSeconds=604800" height="25"/> <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=ffffff&cacheSeconds=604800" height="25"/>
