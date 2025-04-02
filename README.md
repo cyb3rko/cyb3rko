@@ -24,6 +24,7 @@
 <h3 align="left">Badges:</h3>
 
 <!--START_SECTION:badges-->
+[![Methodology Skills - Product Thinking Essentials](https://images.credly.com/size/110x110/images/3066ac63-3f4b-49f0-a8ac-f9e295ce5921/image.png)](http://www.credly.com/badges/8ea3680a-ebe9-46e3-8491-f59fda08a195 "Methodology Skills - Product Thinking Essentials")
 [![Drive Ignite Transformation Knowledge - Year One Success Onboarding - Experience SAP](https://images.credly.com/size/110x110/images/4ae8d0a1-22ef-41d7-87d8-c1711f462103/image.png)](http://www.credly.com/badges/716dff02-f8c3-4d83-90ac-95c4617e328e "Drive Ignite Transformation Knowledge - Year One Success Onboarding - Experience SAP")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/cce7001e-02b6-43dd-9f3a-025d0286f714 "ISC2 Candidate")
 <!--END_SECTION:badges-->
