@@ -37,12 +37,12 @@
 
 ### My Projects:
 
-| Android Apps | Android / Kotlin Libraries | Raspberry Pi | Docker | Other |
+| Android Apps | Android / Kotlin Libraries | Matrix | Docker | Other |
 |---|---|---|---|---|
-| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) |  [📷 JAB Code Android](https://github.com/cyb3rko/jabcode-android) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
-| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) | [ℹ️ About Icons](https://github.com/cyb3rko/about-icons) | [🚀 Raspi Speedtester](https://github.com/cyb3rko/raspi-speedtester) |  | [⛔ Social Media Hosts Blocklists](https://github.com/cyb3rko/social-media-hosts-blocklists) |
-| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) | [📝 Android Licenses Library](https://github.com/cyb3rko/android-licenses-library) |  |  | [⛔ Stevenblack Hosts Trimmed](https://github.com/cyb3rko/stevenblack-hosts-trimmed) |
-| [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) |  |  |  |  |
+| [🔦 FlashDim](https://github.com/cyb3rko/flashdim) |  [📷 JAB Code Android](https://github.com/cyb3rko/jabcode-android) | [🛡️ Matrix Guardian](https://github.com/cyb3rko/matrix-guardian) | [⭐ Star History Docker](https://github.com/cyb3rko/star-history-docker) | [📵 Instagram Unliker](https://github.com/cyb3rko/instagram-unliker) |
+| [🔢 PINcredible](https://github.com/cyb3rko/pincredible) |  | [🤖 Matrix Botc](https://github.com/cyb3rko/matrix-botc) | [💾 Docker Mongo Backup](https://github.com/cyb3rko/docker-mongodb-backup) | [⛔ Social Media Hosts Blocklists](https://github.com/cyb3rko/social-media-hosts-blocklists) |
+| [✅ QuickTrust](https://github.com/cyb3rko/quicktrust) |  |  | [📱 F-Droid Repo Docker](https://github.com/cyb3rko/f-droid-repo-docker) | [⛔ Stevenblack Hosts Trimmed](https://github.com/cyb3rko/stevenblack-hosts-trimmed) |
+| [🔎 LogViewer for openHAB](https://github.com/cyb3rko/logviewer-for-openhab-app) |  |  | [📱 Play Badges Docker](https://github.com/cyb3rko/play-badges-docker) | [👨‍🏫 inf-schule-Lösungen](https://github.com/cyb3rko/inf-schule-loesungen) |
 | [📜 Quaetor](https://github.com/cyb3rko/quaetor-public) |  |  |  |  |
 | [🔒 Pazzword](https://github.com/cyb3rko/pazzword) |  |  |  |  |
 
@@ -51,7 +51,7 @@
 | Android Apps | Android Libraries | Other |
 |---|---|---|
 | [📨 Gotify Android](https://github.com/gotify/android) | [🔑 Quick Permission Kotlin](https://github.com/cyb3rko/QuickPermissions-Kotlin) | [📝 CC Licenses](https://github.com/santisoler/cc-licenses) |
-| [🚗 Velociraptor](https://github.com/cyb3rko/velociraptor-v2) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) |  |
+| [🚗 Velociraptor](https://github.com/cyb3rko/velociraptor-v2) | [🔃 Android App Update Library](https://github.com/Piashsarker/AndroidAppUpdateLibrary) | [🖼️ Shields.io](https://github.com/badges/shields) |
 | [🖼️ Secure Photo Viewer](https://github.com/cyb3rko/Secure-Photo-Viewer) |  |  |
 | [📸 PixelDroid](https://github.com/H-PixelDroid/PixelDroid)  |  |  |
 | [📊 Parse Dashboard Android](https://github.com/bitterbit/Parse-Dashboard-Android) |  |  |
