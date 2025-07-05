@@ -23,4 +23,3 @@ jobs:
       - uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: niko-diamadis
-          CREDLY_SORT: RECENT # optional, RECENT or POPULAR
