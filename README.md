@@ -26,7 +26,6 @@
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/8ea3680a-ebe9-46e3-8491-f59fda08a195" title="Methodology Skills - Product Thinking Essentials"><img src="https://images.credly.com/size/80x80/images/3066ac63-3f4b-49f0-a8ac-f9e295ce5921/image.png" alt="Methodology Skills - Product Thinking Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/cce7001e-02b6-43dd-9f3a-025d0286f714" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/716dff02-f8c3-4d83-90ac-95c4617e328e" title="Drive Ignite Transformation Knowledge - Year One Success Onboarding - Experience SAP"><img src="https://images.credly.com/size/80x80/images/4ae8d0a1-22ef-41d7-87d8-c1711f462103/image.png" alt="Drive Ignite Transformation Knowledge - Year One Success Onboarding - Experience SAP" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <h3 align="left">Languages and Tools:</h3>
