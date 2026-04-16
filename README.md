@@ -1,8 +1,9 @@
-<h1 align="center"><img width="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi, my name is Niko</h1>
-<h3 align="center">IT Security Student & Freetime Android developer (🇩🇪 🇬🇷)</h3>
+<h1 align="center"><img width="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi, my name is Niko 🇩🇪🇬🇷</h1>
+<h3 align="center">Co-Founder @ <a href="https://github.com/olymp-labs">Olymp Labs</a> ⍿ Cloud Security Engineer @ <a href="https://github.com/SAP">SAP SE</a></h3>
+<h3 align="center">Bachelor of Science IT Security ⍿ Linux Fan</h3><br/>
 
 <p align=center>
-  <a href="https://signal.org/donate"><img src="https://img.shields.io/badge/Signal%20Sponsor-3B45FD?style=for-the-badge&logo=signal&logoColor=ffffff&cacheSeconds=604800" height="30"></a> <a href="https://matrix.org/membership"><img src="https://img.shields.io/badge/Matrix%20Member-000000?style=for-the-badge&logo=matrix&logoColor=ffffff&cacheSeconds=604800" height="30"/></a>
+  <a href="https://signal.org/donate"><img src="https://img.shields.io/badge/Signal%20Sponsor-3B45FD?style=for-the-badge&logo=signal&logoColor=ffffff&cacheSeconds=604800" height="30"></a>
 </p>
 
 ---
