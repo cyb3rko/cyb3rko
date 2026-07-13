@@ -1,4 +1,4 @@
-<h1 align="center"><img width="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi, my name is Niko 🇩🇪🇬🇷</h1>
+<h1 align="center"><img width="45px" src="https://cdn3.emoji.gg/emojis/9652-peepohey.gif"> Hi, my name is Niko 🇩🇪🇬🇷</h1>
 <h3 align="center">Co-Founder @ <a href="https://github.com/olymp-labs">Olymp Labs</a> ⍿ Cloud Security Engineer @ <a href="https://github.com/SAP">SAP SE</a></h3>
 <h3 align="center">Bachelor of Science IT Security ⍿ Linux Fan</h3><br/>
 
