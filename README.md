@@ -25,9 +25,7 @@
 <h3 align="left">Badges:</h3>
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/8ea3680a-ebe9-46e3-8491-f59fda08a195">
-  <img src="https://images.credly.com/size/100x100/images/3066ac63-3f4b-49f0-a8ac-f9e295ce5921/image.png" alt="Methodology Skills - Product Thinking Essentials" width="100" />
-</a>
+[![Methodology Skills - Product Thinking Essentials](https://images.credly.com/size/80x80/images/3066ac63-3f4b-49f0-a8ac-f9e295ce5921/image.png)](https://www.credly.com/badges/8ea3680a-ebe9-46e3-8491-f59fda08a195)
 <!--END_SECTION:badges-->
 
 <h3 align="left">Languages and Tools:</h3>
