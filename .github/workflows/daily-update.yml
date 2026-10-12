@@ -1,9 +1,9 @@
 name: Daily README update
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
     # Runs every day at 00:00 UTC
-    - cron: "0 0 * * *"
+    #- cron: "0 0 * * *"
 
 permissions:
   contents: write
